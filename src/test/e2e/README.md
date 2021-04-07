@@ -11,4 +11,4 @@ pip install selenium
 pip install pytest
 
 After installing the above, navigate to ECSSelenium folder
-Run '''pytest -v -s TestCases/test_solution.py'''' from terminal / command line
+Run '''pytest -v -s TestCases/test_solution.py''' from terminal / command line
